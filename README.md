@@ -17,6 +17,7 @@ Please note that GrapheneOS is intended to be a secure and private operating sys
 * [Launcher/Lockscreen](#launcherlockscreen)
 * [Personal Safety](#personal-safety)
 * [Pixel Camera](#pixel-camera)
+* [Pixel Thermometer](#pixel-thermometer)
 
 Legend: 
 | Icon | Meaning |
@@ -109,3 +110,8 @@ Legend:
 |Astrophotography|✅|✅|✅|✅|✅|✅|✅|✅|✅|✅|✅|
 |Face Unblur|✅|✅|✅|✅|✅|✅|✅|✅|✅|❌|
 |Photo Unblur|✅|✅|✅|✅|✅|✅|❌|❌|❌|❌|
+
+### Pixel Thermometer
+| Feature | 8a | 8P | 8 | 7a | 7P | 7 | 6a | 6P | 6 | 5a |
+|---------|----|-------|---|----|-------|---|----|-------|---|----|
+|App functions|❌|❌|❌|❌|❌|❌|❌|❌|❌|❌|❌|
