@@ -8,6 +8,8 @@ Please note that GrapheneOS is intended to be a secure and private operating sys
 ### Table of contents
 * [Android Auto](#android-auto)
 * [System Features](#system-features)
+* [Find My Device](#find-my-device)
+* [Gemini](#gemini)
 * [Gboard](#gboard)
 * [Google Assistant](#google-assistant)
 * [Google Phone](#google-phone)
@@ -44,6 +46,7 @@ Legend:
 |Extreme Battery Saver|❌|❌|❌|❌|❌|❌|❌|❌|❌|❌|❌|
 |Now Playing|❌|❌|❌|❌|❌|❌|❌|❌|❌|❌|❌|
 |Quick Tap|❌|❌|❌|❌|❌|❌|❌|❌|❌|❌|❌|
+|Plug into external display|?|?|?|❌|❌|❌|❌|❌|❌|❌|❌|
 
 ### Launcher/Lockscreen
 | Feature | 8a | 8P | 8 | 7a | 7P | 7 | 6a | 6P | 6 | 5a |
@@ -55,6 +58,17 @@ Legend:
 |Universal Search|❌|❌|❌|❌|❌|❌|❌|❌|❌|❌|❌|
 |App Suggestions|❌|❌|❌|❌|❌|❌|❌|❌|❌|❌|❌|
 |At a Glance widget|✅|✅|✅|✅|✅|✅|✅|✅|✅|✅|✅|
+
+### Find My Device
+| Feature | 8a | 8P | 8 | 7a | 7P | 7 | 6a | 6P | 6 | 5a |
+|---------|----|-------|---|----|-------|---|----|-------|---|----|
+|App functions|✅|✅|✅|✅|✅|✅|✅|✅|✅|✅|✅|
+|Find device when power is off|?|?|?|❌|❌|❌|❌|❌|❌|❌|❌|
+
+### Gemini
+| Feature | 8a | 8P | 8 | 7a | 7P | 7 | 6a | 6P | 6 | 5a |
+|---------|----|-------|---|----|-------|---|----|-------|---|----|
+|App functions|✅|✅|✅|✅|✅|✅|✅|✅|✅|✅|✅|
 
 ### Gboard
 | Feature | 8a | 8P | 8 | 7a | 7P | 7 | 6a | 6P | 6 | 5a |
@@ -76,6 +90,8 @@ Legend:
 |---------|----|-------|---|----|-------|---|----|-------|---|----|
 |App functions|✅|✅|✅|✅|✅|✅|✅|✅|✅|✅|✅|
 |Google Phone|✅|✅|✅|✅|✅|✅|✅|✅|✅|✅|✅|
+|Audio emoji|?|?|?|?|?|?|?|?|?|?|?|
+|Reverse number lookup|?|?|?|?|?|?|?|?|?|?|❌|
 |Call Screen|❌|❌|❌|❌|❌|❌|❌|❌|❌|❌|❌|
 
 ### Google Photos
@@ -91,6 +107,8 @@ Legend:
 | Feature | 8a | 8P | 8 | 7a | 7P | 7 | 6a | 6P | 6 | 5a |
 |---------|----|-------|---|----|-------|---|----|-------|---|----|
 |App functions|✅|✅|✅|✅|✅|✅|✅|✅|✅|✅|✅|
+|Speaker labels|✅|✅|✅|✅|✅|✅|✅|✅|✅|✅|❌|
+|Gemini-powered summaries|?|?|?|❌|❌|❌|❌|❌|❌|❌|❌|
 
 ### Google Wallet/Google Pay
 | Feature | 8a | 8P | 8 | 7a | 7P | 7 | 6a | 6P | 6 | 5a |
@@ -111,6 +129,7 @@ Legend:
 |Astrophotography|✅|✅|✅|✅|✅|✅|✅|✅|✅|✅|✅|
 |Face Unblur|✅|✅|✅|✅|✅|✅|✅|✅|✅|❌|
 |Photo Unblur|✅|✅|✅|✅|✅|✅|❌|❌|❌|❌|
+|Pro mode|❌|✅|❌|❌|✅|❌|❌|✅|❌|❌|
 
 ### Pixel Thermometer
 | Feature | 8a | 8P | 8 | 7a | 7P | 7 | 6a | 6P | 6 | 5a |
