@@ -130,6 +130,7 @@ Legend:
 |Face Unblur|✅|✅|✅|✅|✅|✅|✅|✅|✅|❌|
 |Photo Unblur|✅|✅|✅|✅|✅|✅|❌|❌|❌|❌|
 |Pro mode|❌|✅|❌|❌|✅|❌|❌|✅|❌|❌|
+|Manual lens selection|❌|✅|❌|❌|✅|❌|❌|✅|❌|❌|
 
 ### Pixel Thermometer
 | Feature | 8a | 8P | 8 | 7a | 7P | 7 | 6a | 6P | 6 | 5a |
