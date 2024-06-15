@@ -3,7 +3,7 @@ A table describing the different Pixel Exclusive features and whether or not the
 
 Please note that GrapheneOS is intended to be a secure and private operating system. The lack of Pixel exclusive features in GrapheneOS is not the fault of the GrapheneOS team. A lot of the unsupported features require privileged system access and/or proprietary software and therefore won't be added to the open-source GOS.
 
-### ⚠️ This list is a WIP and not complete! Contributions are welcome :)
+### ⚠️ This list is a WIP and not complete! Please not that some of the information could be inaccurate. Contributions are welcome :)
 
 ### Table of contents
 * [Android Auto](#android-auto)
@@ -26,13 +26,14 @@ Legend:
 |   🟨   |     Partially supported    |
 |   ❌   |      Not supported   |
 |   ?     |      Unknown, needs testing   |
+|   🛜     |      Requires network access   |
 
 ### Android Auto
 | Feature | 8a | 8P | 8 | 7a | 7P | 7 | 6a | 6P | 6 | 5a |
 |---------------------|----|-------|---|----|-------|---|----|-------|---|----|
 |App functions|✅|✅|✅|✅|✅|✅|✅|✅|✅|✅|✅|
 |Wired Android Auto   |✅|✅|✅|✅|✅|✅|✅|✅|✅|✅|
-|Wireless Android Auto|✅|✅|✅|✅|✅|✅|✅|✅|✅|✅|
+|Wireless Android Auto 🛜|✅|✅|✅|✅|✅|✅|✅|✅|✅|✅|
 
 ### System Features
 | Feature | 8a | 8P | 8 | 7a | 7P | 7 | 6a | 6P | 6 | 5a |
@@ -61,7 +62,7 @@ Legend:
 |App functions|✅|✅|✅|✅|✅|✅|✅|✅|✅|✅|✅|
 |Faster voice typing|✅|✅|✅|✅|✅|✅|✅|✅|✅|✅|?|
 |Assistant voice typing|❌|❌|❌|❌|❌|❌|❌|❌|❌|❌|❌|
-|Translation tool|?|?|?|?|?|?|?|?|?|?|?|
+|Translation tool 🛜|✅|✅|✅|✅|✅|✅|✅|✅|✅|✅|✅|
 
 ### Google Assistant
 | Feature | 8a | 8P | 8 | 7a | 7P | 7 | 6a | 6P | 6 | 5a |
@@ -83,7 +84,7 @@ Legend:
 |App functions|✅|✅|✅|✅|✅|✅|✅|✅|✅|✅|✅|
 |Magic Eraser|✅|✅|✅|✅|✅|✅|✅|✅|✅|❌|
 |Audio Eraser|?|?|?|❌|❌|❌|❌|❌|❌|❌|
-|Video Boost|?|❌|❌|❌|❌|❌|❌|❌|❌|❌|
+|Video Boost 🛜|?|✅|❌|❌|❌|❌|❌|❌|❌|❌|
 |Best Take|?|?|?|❌|❌|❌|❌|❌|❌|❌|
 
 ### Google Recorder
