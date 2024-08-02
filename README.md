@@ -46,7 +46,7 @@ Legend:
 |Extreme Battery Saver|❌|❌|❌|❌|❌|❌|❌|❌|❌|❌|❌|
 |Now Playing|❌|❌|❌|❌|❌|❌|❌|❌|❌|❌|❌|
 |Quick Tap|❌|❌|❌|❌|❌|❌|❌|❌|❌|❌|❌|
-|Plug into external display|?|?|?|❌|❌|❌|❌|❌|❌|❌|❌|
+|Plug into external display|✅|?|?|❌|❌|❌|❌|❌|❌|❌|❌|
 
 ### Launcher/Lockscreen
 | Feature | 8a | 8P | 8 | 7a | 7P | 7 | 6a | 6P | 6 | 5a |
