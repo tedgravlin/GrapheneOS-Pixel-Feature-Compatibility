@@ -3,7 +3,7 @@ A table describing the different Pixel Exclusive features and whether or not the
 
 Please note that GrapheneOS is intended to be a secure and private operating system. The lack of Pixel exclusive features in GrapheneOS is not the fault of the GrapheneOS team. A lot of the unsupported features require privileged system access and/or proprietary software and therefore won't be added to the open-source GOS.
 
-### ⚠️ This list is a WIP and not complete! Please not that some of the information could be inaccurate. Contributions are welcome :)
+### ⚠️ This list is a WIP and not complete! Please note that some of the information could be inaccurate. Contributions are welcome :)
 
 ### Table of contents
 * [Android Auto](#android-auto)
