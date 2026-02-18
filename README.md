@@ -52,6 +52,7 @@ Legend:
 |Quick Tap|❌|❌|❌|❌|❌|❌|❌|❌|❌|❌|❌|❌|❌|❌|❌|❌|❌|
 |Plug into external display|?|?|?|?|?|?|✅|?|?|❌|❌|❌|❌|❌|❌|❌|❌|
 |Magic Cue|❌|❌|❌|❌|❌|❌|❌|❌|❌|❌|❌|❌|❌|❌|❌|❌|❌|
+|Live Notifications|?|?|?|?|?|?|?|?|?|?|?|?|?|?|?|❌|
 
 ### Launcher/Lockscreen
 | Feature | 10a | 10P | 10 |9a |9P | 9 | 8a | 8P | 8 | 7a | 7P | 7 | 6a | 6P | 6 | 5a |
@@ -64,6 +65,7 @@ Legend:
 |App Suggestions|❌|❌|❌|❌|❌|❌|❌|❌|❌|❌|❌|❌|❌|❌|❌|❌|❌|
 |At a Glance widget|✅|✅|✅|✅|✅|✅|✅|✅|✅|✅|✅|✅|✅|✅|✅|✅|✅|
 |Icon Shapes|✅|✅|✅|✅|✅|✅|✅|✅|✅|✅|✅|✅|✅|✅|✅|✅|❌|
+|Auto Themed Icons|✅|✅|✅|✅|✅|✅|✅|✅|✅|✅|✅|✅|✅|✅|✅|✅|❌|
 
 ### Find My Device
 | Feature | 10a | 10P | 10 |9a |9P | 9 | 8a | 8P | 8 | 7a | 7P | 7 | 6a | 6P | 6 | 5a |
