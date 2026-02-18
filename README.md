@@ -22,7 +22,7 @@ Some of these features may require Sandboxed Google Play Services to be installe
 * [Personal Safety](#personal-safety)
 * [Pixel Camera](#pixel-camera)
 * [Pixel Thermometer](#pixel-thermometer)
-* __[Pixel Screenshots]()__
+* [Pixel Screenshots](#pixel-screenshots)
 
 Legend: 
 | Icon | Meaning |
