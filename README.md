@@ -23,6 +23,7 @@ Some of these features may require Sandboxed Google Play Services to be installe
 * [Pixel Camera](#pixel-camera)
 * [Pixel Thermometer](#pixel-thermometer)
 * [Pixel Screenshots](#pixel-screenshots)
+* [Pixel Journal](#pixel-journal)
 
 Legend: 
 | Icon | Meaning |
