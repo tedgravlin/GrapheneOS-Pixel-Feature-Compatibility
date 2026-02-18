@@ -3,6 +3,8 @@ A table describing the different Pixel Exclusive features and whether or not the
 
 Please note that GrapheneOS is intended to be a secure and private operating system. The lack of Pixel exclusive features in GrapheneOS is not the fault of the GrapheneOS team. A lot of the unsupported features require privileged system access and/or proprietary software and therefore won't be added to the open-source GOS.
 
+Some of these features may require Sandboxed Google Play Services to be installed.
+
 ### ⚠️ This list is a WIP and not complete! Please note that some of the information could be inaccurate. Contributions are welcome :)
 
 ### Table of contents
@@ -20,6 +22,7 @@ Please note that GrapheneOS is intended to be a secure and private operating sys
 * [Personal Safety](#personal-safety)
 * [Pixel Camera](#pixel-camera)
 * [Pixel Thermometer](#pixel-thermometer)
+* __[Pixel Screenshots]()__
 
 Legend: 
 | Icon | Meaning |
@@ -47,6 +50,7 @@ Legend:
 |Now Playing|❌|❌|❌|❌|❌|❌|❌|❌|❌|❌|❌|❌|❌|❌|❌|❌|❌|
 |Quick Tap|❌|❌|❌|❌|❌|❌|❌|❌|❌|❌|❌|❌|❌|❌|❌|❌|❌|
 |Plug into external display|?|?|?|?|?|?|✅|?|?|❌|❌|❌|❌|❌|❌|❌|❌|
+|Magic Cue|❌|❌|❌|❌|❌|❌|❌|❌|❌|❌|❌|❌|❌|❌|❌|❌|❌|
 
 ### Launcher/Lockscreen
 | Feature | 10a | 10P | 10 |9a |9P | 9 | 8a | 8P | 8 | 7a | 7P | 7 | 6a | 6P | 6 | 5a |
@@ -137,3 +141,15 @@ Legend:
 | Feature | 10a | 10P | 10 |9a |9P | 9 | 8a | 8P | 8 | 7a | 7P | 7 | 6a | 6P | 6 | 5a |
 |---------------------|----|-------|---|----|-------|---|----|-------|---|----|-------|---|----|-------|---|----|
 |App functions|❌|✅|❌|❌|✅|❌|❌|✅|❌|❌|❌|❌|❌|❌|❌|❌|❌|
+
+### Pixel Screenshots
+| Feature | 10a | 10P | 10 |9a |9P | 9 | 8a | 8P | 8 | 7a | 7P | 7 | 6a | 6P | 6 | 5a |
+|---------------------|----|-------|---|----|-------|---|----|-------|---|----|-------|---|----|-------|---|----|
+|App functions|?|?|?|?|?|?|?|?|?|?|?|?|?|?|?|?|?|
+|AI Features|?|?|?|?|?|?|?|?|?|?|?|?|?|?|?|?|?|
+
+### Pixel Journal
+| Feature | 10a | 10P | 10 |9a |9P | 9 | 8a | 8P | 8 | 7a | 7P | 7 | 6a | 6P | 6 | 5a |
+|---------------------|----|-------|---|----|-------|---|----|-------|---|----|-------|---|----|-------|---|----|
+|App functions|?|?|?|?|?|?|?|?|?|❌|❌|❌|❌|❌|❌|❌|❌|
+|AI Features|❌|❌|❌|❌|❌|❌|❌|❌|❌|❌|❌|❌|❌|❌|❌|❌|❌|
