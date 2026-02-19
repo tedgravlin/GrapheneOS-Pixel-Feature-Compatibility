@@ -53,6 +53,7 @@ Legend:
 |Plug into external display|?|?|?|?|?|?|✅|?|?|❌|❌|❌|❌|❌|❌|❌|❌|
 |Magic Cue|❌|❌|❌|❌|❌|❌|❌|❌|❌|❌|❌|❌|❌|❌|❌|❌|❌|
 |Live Notifications|?|?|?|?|?|?|?|?|?|?|?|?|?|?|?|❌|
+|Face Unlock|❌|❌|❌|❌|❌|❌|❌|❌|❌|❌|❌|❌|❌|❌|❌|❌|❌|
 
 ### Launcher/Lockscreen
 | Feature | 10a | 10P | 10 |9a |9P | 9 | 8a | 8P | 8 | 7a | 7P | 7 | 6a | 6P | 6 | 5a |
