@@ -24,6 +24,7 @@ Some of these features may require Sandboxed Google Play Services to be installe
 * [Pixel Thermometer](#pixel-thermometer)
 * [Pixel Screenshots](#pixel-screenshots)
 * [Pixel Journal](#pixel-journal)
+* [Pixel Studio](#pixel-studio)
 
 Legend: 
 | Icon | Meaning |
