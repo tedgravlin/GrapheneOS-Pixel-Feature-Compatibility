@@ -156,7 +156,6 @@ Legend:
 |---------------------|----|-------|---|----|-------|---|----|-------|---|----|-------|---|----|-------|---|----|
 |App functions|?|?|?|?|?|?|?|?|?|?|?|?|?|?|?|?|?|
 |AI Features|❌|?|?|❌|?|?|❌|❌|❌|❌|❌|❌|❌|❌|❌|❌|❌|
-Note to self, delete later: https://discuss.grapheneos.org/d/16080-pixel-studio-and-pixel-screenshots-on-pixel-9
 
 ### Pixel Journal
 | Feature | 10a | 10P | 10 |9a |9P | 9 | 8a | 8P | 8 | 7a | 7P | 7 | 6a | 6P | 6 | 5a |
@@ -168,4 +167,3 @@ Note to self, delete later: https://discuss.grapheneos.org/d/16080-pixel-studio-
 | Feature | 10a | 10P | 10 |9a |9P | 9 | 8a | 8P | 8 | 7a | 7P | 7 | 6a | 6P | 6 | 5a |
 |---------------------|----|-------|---|----|-------|---|----|-------|---|----|-------|---|----|-------|---|----|
 |App functions|?|?|?|?|?|?|❌|❌|❌|❌|❌|❌|❌|❌|❌|❌|❌|
-Note to self, delete later: https://discuss.grapheneos.org/d/16080-pixel-studio-and-pixel-screenshots-on-pixel-9
