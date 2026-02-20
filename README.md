@@ -5,7 +5,7 @@ Please note that GrapheneOS is intended to be a secure and private operating sys
 
 Some of these features may require Sandboxed Google Play Services to be installed.
 
-### ⚠️ This list is a WIP and not complete! Please note that some of the information could be inaccurate. Contributions are welcome :)
+NOTE: This list is a WIP and not complete! Information could be inaccurate. Contributions are welcome :)
 
 ### Table of contents
 * [Android Auto](#android-auto)
