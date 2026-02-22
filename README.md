@@ -1,11 +1,11 @@
 # GrapheneOS Pixel Feature Compatibility
 A table describing the different Pixel Exclusive features and whether or not they're available in GrapheneOS.
 
-Please note that GrapheneOS is intended to be a secure and private operating system. The lack of Pixel exclusive features in GrapheneOS is not the fault of the GrapheneOS team. A lot of the unsupported features require privileged system access and/or proprietary software and therefore won't be added to the open-source GOS.
+Please note that GrapheneOS is intended to be a secure and private operating system. The lack of Pixel exclusive features in GrapheneOS is not the fault of the GrapheneOS team. A lot of the unsupported features require privileged system access and/or proprietary software and therefore likely won't be added to GrapheneOS.
 
 Some of these features may require Sandboxed Google Play Services to be installed.
 
-NOTE: This list is a WIP and not complete! Information could be inaccurate. Contributions are welcome :)
+NOTE: This list is a WIP and not complete, information could be inaccurate. Contributions are always welcome!
 
 ### Table of contents
 * [Android Auto](#android-auto)
