@@ -8,8 +8,8 @@ Some of these features may require Sandboxed Google Play Services to be installe
 NOTE: This list is a WIP and not complete, information could be inaccurate. Contributions are always welcome!
 
 ### Table of contents
-* [Android Auto](#android-auto)
 * [System Features](#system-features)
+* [Android Auto](#android-auto)
 * [Find My Device](#find-my-device)
 * [Gemini](#gemini)
 * [Gboard](#gboard)
@@ -35,13 +35,6 @@ Legend:
 |   ?     |      Unknown, needs testing   |
 |   🛜     |      Requires network access   |
 
-### Android Auto
-| Feature | 10a | 10P | 10 | 9a | 9P | 9 | 8a | 8P | 8 | 7a | 7P | 7 | 6a | 6P | 6 |
-|---------------------|----|-------|---|----|-------|---|----|-------|---|----|-------|---|----|-------|---|
-|App functions|✅|✅|✅|✅|✅|✅|✅|✅|✅|✅|✅|✅|✅|✅|✅|
-|Wired Android Auto   |✅|✅|✅|✅|✅|✅|✅|✅|✅|✅|✅|✅|✅|✅|✅|
-|Wireless Android Auto 🛜|✅|✅|✅|✅|✅|✅|✅|✅|✅|✅|✅|✅|✅|✅|✅|
-
 ### System Features
 | Feature | 10a | 10P | 10 | 9a | 9P | 9 | 8a | 8P | 8 | 7a | 7P | 7 | 6a | 6P | 6 |
 |---------------------|----|-------|---|----|-------|---|----|-------|---|----|-------|---|----|-------|---|
@@ -57,6 +50,13 @@ Legend:
 |Live Notifications|✅|✅|✅|✅|✅|✅|✅|✅|✅|✅|✅|✅|✅|✅|✅|
 |Face Unlock|❌|❌|❌|❌|❌|❌|❌|❌|❌|❌|❌|❌|❌|❌|❌|
 |Battery Share|❌|❌|❌|❌|✅|✅|❌|✅|✅|❌|✅|✅|❌|✅|✅|
+
+### Android Auto
+| Feature | 10a | 10P | 10 | 9a | 9P | 9 | 8a | 8P | 8 | 7a | 7P | 7 | 6a | 6P | 6 |
+|---------------------|----|-------|---|----|-------|---|----|-------|---|----|-------|---|----|-------|---|
+|App functions|✅|✅|✅|✅|✅|✅|✅|✅|✅|✅|✅|✅|✅|✅|✅|
+|Wired Android Auto   |✅|✅|✅|✅|✅|✅|✅|✅|✅|✅|✅|✅|✅|✅|✅|
+|Wireless Android Auto 🛜|✅|✅|✅|✅|✅|✅|✅|✅|✅|✅|✅|✅|✅|✅|✅|
 
 ### Launcher/Lockscreen
 | Feature | 10a | 10P | 10 | 9a | 9P | 9 | 8a | 8P | 8 | 7a | 7P | 7 | 6a | 6P | 6 |
