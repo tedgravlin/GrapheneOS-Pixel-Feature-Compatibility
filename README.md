@@ -49,6 +49,7 @@ Legend:
 |Auto-Rotate Face Detection|❌|❌|❌|❌|❌|❌|❌|❌|❌|❌|❌|❌|❌|❌|❌|
 |Circle to Search|❌|❌|❌|❌|❌|❌|❌|❌|❌|❌|❌|❌|❌|❌|❌|
 |Extreme Battery Saver|❌|❌|❌|❌|❌|❌|❌|❌|❌|❌|❌|❌|❌|❌|❌|
+|Flip to Shhh [(Alternative)](#open-source-alternatives)|❌|❌|❌|❌|❌|❌|❌|❌|❌|❌|❌|❌|❌|❌|❌|
 |Now Playing|❌|❌|❌|❌|❌|❌|❌|❌|❌|❌|❌|❌|❌|❌|❌|
 |Quick Tap|❌|❌|❌|❌|❌|❌|❌|❌|❌|❌|❌|❌|❌|❌|❌|
 |Plug into external display|✅|✅|✅|✅|✅|✅|✅|?|?|❌|❌|❌|❌|❌|❌|
@@ -168,3 +169,11 @@ Legend:
 | Feature | 10a | 10P | 10 | 9a | 9P | 9 | 8a | 8P | 8 | 7a | 7P | 7 | 6a | 6P | 6 |
 |---------------------|----|-------|---|----|-------|---|----|-------|---|----|-------|---|----|-------|---|
 |App functions|❌|❌|❌|❌|❌|❌|❌|❌|❌|❌|❌|❌|❌|❌|❌|
+
+---
+### Open-source alternatives
+Some open-source options exist to add or replace functionality similar to Pixel-exclusive features. 
+Note that these apps are not endorsed by myself or the GrapheneOS team.
+| Feature | Alternative |
+| ------- | ----------- |
+| Flip to Shhh | [Flip 2 DND](https://github.com/robinsrk/flip_2_dnd) |
