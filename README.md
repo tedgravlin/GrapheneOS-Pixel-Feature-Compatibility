@@ -1,35 +1,34 @@
 # GrapheneOS Pixel Feature Compatibility
 
-A table describing the different Pixel Exclusive features and whether or not they're available in GrapheneOS.
+A community-maintained reference detailing which Google Pixel features function in GrapheneOS.
 
-Please note that GrapheneOS is intended to be a secure and private operating system. The lack of Pixel exclusive features in GrapheneOS is not the fault of the GrapheneOS team. A lot of the unsupported features require privileged system access and/or proprietary software and therefore likely won't be added to GrapheneOS.
+Please note that GrapheneOS is intended to be a secure and private operating system. Any issues with Pixel exclusive features are not neccessarily the fault of the GrapheneOS team. A lot of unsupported features require privileged system access and/or proprietary software and therefore likely won't be added to GrapheneOS.
 
-Some of these features may require Sandboxed Google Play Services to be installed.
+> [!IMPORTANT]
+> Some features may require Sandboxed Google Play Services to be installed. If you discover a feature which is listed as supported but does not work without Sandboxed Google Play Services, feel free to submit an issue so we can update the documentation.
 
-NOTE: This list is a WIP and not complete, information could be inaccurate. Contributions are always welcome!
+> [!NOTE]
+> This list is not fully complete and information could be inaccurate. Contributions are always welcome!
 
 ### Table of contents
-
-- [GrapheneOS Pixel Feature Compatibility](#grapheneos-pixel-feature-compatibility)
-    - [Table of contents](#table-of-contents)
-    - [System Features](#system-features)
-    - [Android Auto](#android-auto)
-    - [Launcher/Lockscreen](#launcherlockscreen)
-    - [Find My Device](#find-my-device)
-    - [Gemini](#gemini)
-    - [Gboard](#gboard)
-    - [Google Assistant](#google-assistant)
-    - [Google Phone](#google-phone)
-    - [Google Photos](#google-photos)
-    - [Google Recorder](#google-recorder)
-    - [Google Wallet/Google Pay](#google-walletgoogle-pay)
-    - [Personal Safety](#personal-safety)
-    - [Pixel Camera](#pixel-camera)
-    - [Pixel Thermometer](#pixel-thermometer)
-    - [Pixel Screenshots](#pixel-screenshots)
-    - [Pixel Journal](#pixel-journal)
-    - [Pixel Studio](#pixel-studio)
-    - [Open-source alternatives](#open-source-alternatives)
+- [System Features](#system-features)
+- [Android Auto](#android-auto)
+- [Launcher/Lockscreen](#launcherlockscreen)
+- [Find My Device](#find-my-device)
+- [Gemini](#gemini)
+- [Gboard](#gboard)
+- [Google Assistant](#google-assistant)
+- [Google Phone](#google-phone)
+- [Google Photos](#google-photos)
+- [Google Recorder](#google-recorder)
+- [Google Wallet/Google Pay](#google-walletgoogle-pay)
+- [Personal Safety](#personal-safety)
+- [Pixel Camera](#pixel-camera)
+- [Pixel Thermometer](#pixel-thermometer)
+- [Pixel Screenshots](#pixel-screenshots)
+- [Pixel Journal](#pixel-journal)
+- [Pixel Studio](#pixel-studio)
+- [Open-source alternatives](#open-source-alternatives)
 
 Legend:
 | Icon | Meaning                 |
@@ -193,7 +192,7 @@ Legend:
 
 ---
 
-### Open-source alternatives
+## Open-source alternatives
 
 Some open-source options exist to add or replace functionality similar to Pixel-exclusive features.
 Note that these apps are not endorsed by myself or the GrapheneOS team.
