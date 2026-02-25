@@ -20,11 +20,10 @@ Please note that GrapheneOS is intended to be a secure and private operating sys
 - [Gboard](#gboard)
 - [Google Assistant](#google-assistant)
 - [Google Phone](#google-phone)
-- [Google Photos](#google-photos)
+- [Google Photos / Pixel Camera](#google-photos--pixel-camera)
 - [Google Recorder](#google-recorder)
-- [Google Wallet/Google Pay](#google-walletgoogle-pay)
+- [Google Wallet / Google Pay](#google-walletgoogle-pay)
 - [Personal Safety](#personal-safety)
-- [Pixel Camera](#pixel-camera)
 - [Pixel Thermometer](#pixel-thermometer)
 - [Pixel Screenshots](#pixel-screenshots)
 - [Pixel Journal](#pixel-journal)
@@ -124,16 +123,24 @@ Legend:
 | Take a Message        | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  |
 | Calling Card          | ✅  | ✅  | ✅  | ✅  | ✅  | ✅  | ✅  | ✅  | ✅  | ✅  | ✅  | ✅  | ✅  | ✅  | ✅  |
 
-### Google Photos
+### Google Photos / Pixel Camera 
 
 | Feature          | 10a | 10P | 10  | 9a  | 9P  |  9  | 8a  | 8P  |  8  | 7a  | 7P  |  7  | 6a  | 6P  |  6  |
 | ---------------- | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
-| App functions    | ✅  | ✅  | ✅  | ✅  | ✅  | ✅  | ✅  | ✅  | ✅  | ✅  | ✅  | ✅  | ✅  | ✅  | ✅  |
+| Pixel Camera app functions    | ✅  | ✅  | ✅  | ✅  | ✅  | ✅  | ✅  | ✅  | ✅  | ✅  | ✅  | ✅  | ✅  | ✅  | ✅  |
+| Google Photos app functions    | ✅  | ✅  | ✅  | ✅  | ✅  | ✅  | ✅  | ✅  | ✅  | ✅  | ✅  | ✅  | ✅  | ✅  | ✅  |
 | Magic Eraser 🛜   | ✅  | ✅  | ✅  | ✅  | ✅  | ✅  | ✅  | ✅  | ✅  | ✅  | ✅  | ✅  | ✅  | ✅  | ✅  |
 | Audio Eraser 🛜1️⃣ | ✅  | ✅  | ✅  | ✅  | ✅  | ✅  | ✅  | ✅  | ✅  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  |
 | Video Boost 🛜    | ❌  | ✅  | ❌  | ❌  | ✅  | ❌  | ❌  | ✅  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  |
 | Best Take 🛜1️⃣    | ✅  | ✅  | ✅  | ✅  | ✅  | ✅  | ✅  | ✅  | ✅  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  |
 | Auto Best Take   |  ?  |  ?  |  ?  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  |
+| Astrophotography      | ✅  | ✅  | ✅  | ✅  | ✅  | ✅  | ✅  | ✅  | ✅  | ✅  | ✅  | ✅  | ✅  | ✅  | ✅  |
+| Face Unblur           | ✅  | ✅  | ✅  | ✅  | ✅  | ✅  | ✅  | ✅  | ✅  | ✅  | ✅  | ✅  | ✅  | ✅  | ✅  |
+| Photo Unblur          | ✅  | ✅  | ✅  | ✅  | ✅  | ✅  | ✅  | ✅  | ✅  | ✅  | ✅  | ✅  | ❌  | ❌  | ❌  |
+| Pro mode              | ❌  | ✅  | ❌  | ❌  | ✅  | ❌  | ❌  | ✅  | ❌  | ❌  | ✅  | ❌  | ❌  | ✅  | ❌  |
+| Manual lens selection | ❌  | ✅  | ❌  | ❌  | ✅  | ❌  | ❌  | ✅  | ❌  | ❌  | ✅  | ❌  | ❌  | ✅  | ❌  |
+| Pro Res Zoom          | ❌  | ✅  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  |
+| Camera Coach 🛜        | ✅  | ✅  | ✅  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  |
 
 ### Google Recorder
 
@@ -155,19 +162,6 @@ Legend:
 | Feature       | 10a | 10P | 10  | 9a  | 9P  |  9  | 8a  | 8P  |  8  | 7a  | 7P  |  7  | 6a  | 6P  |  6  |
 | ------------- | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
 | App functions | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  |
-
-### Pixel Camera
-
-| Feature               | 10a | 10P | 10  | 9a  | 9P  |  9  | 8a  | 8P  |  8  | 7a  | 7P  |  7  | 6a  | 6P  |  6  |
-| --------------------- | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
-| App functions         | ✅  | ✅  | ✅  | ✅  | ✅  | ✅  | ✅  | ✅  | ✅  | ✅  | ✅  | ✅  | ✅  | ✅  | ✅  |
-| Astrophotography      | ✅  | ✅  | ✅  | ✅  | ✅  | ✅  | ✅  | ✅  | ✅  | ✅  | ✅  | ✅  | ✅  | ✅  | ✅  |
-| Face Unblur           | ✅  | ✅  | ✅  | ✅  | ✅  | ✅  | ✅  | ✅  | ✅  | ✅  | ✅  | ✅  | ✅  | ✅  | ✅  |
-| Photo Unblur          | ✅  | ✅  | ✅  | ✅  | ✅  | ✅  | ✅  | ✅  | ✅  | ✅  | ✅  | ✅  | ❌  | ❌  | ❌  |
-| Pro mode              | ❌  | ✅  | ❌  | ❌  | ✅  | ❌  | ❌  | ✅  | ❌  | ❌  | ✅  | ❌  | ❌  | ✅  | ❌  |
-| Manual lens selection | ❌  | ✅  | ❌  | ❌  | ✅  | ❌  | ❌  | ✅  | ❌  | ❌  | ✅  | ❌  | ❌  | ✅  | ❌  |
-| Pro Res Zoom          | ❌  | ✅  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  |
-| Camera Coach 🛜        | ✅  | ✅  | ✅  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  |
 
 ### Pixel Thermometer
 
