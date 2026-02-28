@@ -49,13 +49,14 @@ Legend:
 | Circle to Search                                        | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  |
 | Extreme Battery Saver                                   | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  |
 | Flip to Shhh [(Alternative)](#open-source-alternatives) | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  |
-| Now Playing                                             | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  |
+| Now Playing [(Alternative)](#open-source-alternatives)  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  |
 | Quick Tap [(Alternative)](#open-source-alternatives)    | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  |
 | Plug into external display                              | ✅  | ✅  | ✅  | ✅  | ✅  | ✅  | ✅  | ✅  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  |
 | Magic Cue                                               | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  |
 | Live Notifications                                      | ✅  | ✅  | ✅  | ✅  | ✅  | ✅  | ✅  | ✅  | ✅  | ✅  | ✅  | ✅  | ✅  | ✅  | ✅  |
 | Face Unlock                                             | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  |
 | Battery Share                                           | ❌  | ❌  | ❌  | ❌  | ✅  | ✅  | ❌  | ✅  | ✅  | ❌  | ✅  | ✅  | ❌  | ✅  | ✅  |
+| Rules                                                   | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  |
 
 ### Android Auto
 
@@ -139,7 +140,7 @@ Legend:
 | Photo Unblur          | ✅  | ✅  | ✅  | ✅  | ✅  | ✅  | ✅  | ✅  | ✅  | ✅  | ✅  | ✅  | ❌  | ❌  | ❌  |
 | Pro mode              | ❌  | ✅  | ❌  | ❌  | ✅  | ❌  | ❌  | ✅  | ❌  | ❌  | ✅  | ❌  | ❌  | ✅  | ❌  |
 | Manual lens selection | ❌  | ✅  | ❌  | ❌  | ✅  | ❌  | ❌  | ✅  | ❌  | ❌  | ✅  | ❌  | ❌  | ✅  | ❌  |
-| Pro Res Zoom          | ❌  | ✅  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  |
+| Pro Res Zoom <sup>`🛜1️⃣`</sup>         | ❌  | ✅  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  |
 | Camera Coach <sup>`🛜`</sup>        | ✅  | ✅  | ✅  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  |
 
 ### Google Recorder
@@ -197,4 +198,5 @@ Note that these apps are not endorsed by myself or the GrapheneOS team.
 | Feature | Alternative |
 | ------------ | ---------------------------------------------------- |
 | Flip to Shhh | [Flip 2 DND](https://github.com/robinsrk/flip_2_dnd) |
+| Now Playing | [Ambient Music Mod](https://github.com/KieronQuinn/AmbientMusicMod)
 | Quick Tap | [TapTap](https://github.com/KieronQuinn/TapTap) |
