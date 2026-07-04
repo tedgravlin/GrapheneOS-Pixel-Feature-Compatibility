@@ -43,21 +43,21 @@ Legend:
 
 ### System Features
 
-| Feature                                                 | 10a | 10P | 10  | 9a  | 9P  |  9  | 8a  | 8P  |  8  | 7a  | 7P  |  7  | 6a  | 6P  |  6  |
-| ------------------------------------------------------- | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
-| Adaptive Sound                                          | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  |
-| Auto-Rotate Face Detection                              | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  |
-| Circle to Search                                        | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  |
-| Extreme Battery Saver                                   | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  |
-| Flip to Shhh [(Alternative)](#open-source-alternatives) | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  |
-| Now Playing [(Alternative)](#open-source-alternatives)  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  |
-| Quick Tap [(Alternative)](#open-source-alternatives)    | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  |
-| Plug into external display                              | ✅  | ✅  | ✅  | ✅  | ✅  | ✅  | ✅  | ✅  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  |
-| Magic Cue                                               | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  |
-| Live Notifications                                      | ✅  | ✅  | ✅  | ✅  | ✅  | ✅  | ✅  | ✅  | ✅  | ✅  | ✅  | ✅  | ✅  | ✅  | ✅  |
-| Face Unlock                                             | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  |
-| Battery Share                                           | ❌  | ❌  | ❌  | ❌  | ✅  | ✅  | ❌  | ✅  | ✅  | ❌  | ✅  | ✅  | ❌  | ✅  | ✅  |
-| Rules                                                   | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  |
+| Feature                                                     | 10a | 10P | 10  | 9a  | 9P  |  9  | 8a  | 8P  |  8  | 7a  | 7P  |  7  | 6a  | 6P  |  6  |
+| ----------------------------------------------------------- | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
+| Adaptive Sound                                              | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  |
+| Auto-Rotate Face Detection                                  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  |
+| Circle to Search [(Alternative)](#open-source-alternatives) | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  |
+| Extreme Battery Saver                                       | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  |
+| Flip to Shhh [(Alternative)](#open-source-alternatives)     | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  |
+| Now Playing [(Alternative)](#open-source-alternatives)      | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  |
+| Quick Tap [(Alternative)](#open-source-alternatives)        | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  |
+| Plug into external display                                  | ✅  | ✅  | ✅  | ✅  | ✅  | ✅  | ✅  | ✅  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  |
+| Magic Cue                                                   | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  |
+| Live Notifications                                          | ✅  | ✅  | ✅  | ✅  | ✅  | ✅  | ✅  | ✅  | ✅  | ✅  | ✅  | ✅  | ✅  | ✅  | ✅  |
+| Face Unlock                                                 | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  |
+| Battery Share                                               | ❌  | ❌  | ❌  | ❌  | ✅  | ✅  | ❌  | ✅  | ✅  | ❌  | ✅  | ✅  | ❌  | ✅  | ✅  |
+| Rules                                                       | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  |
 
 ### Android Auto
 
@@ -198,6 +198,7 @@ Some open-source options exist to add or replace functionality similar to Pixel-
 Note that these apps are not endorsed by myself or the GrapheneOS team.
 | Feature | Alternative |
 | ------------ | ---------------------------------------------------- |
+| Circle To Search | [CircleToSearch](https://github.com/AKS-Labs/CircleToSearch) |
 | Flip to Shhh | [Flip 2 DND](https://github.com/robinsrk/flip_2_dnd) |
 | Now Playing | [Ambient Music Mod](https://github.com/KieronQuinn/AmbientMusicMod)
 | Quick Tap | [TapTap](https://github.com/KieronQuinn/TapTap) |
